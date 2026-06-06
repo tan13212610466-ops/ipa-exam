@@ -1,0 +1,1268 @@
+[
+  {
+    "id": 130,
+    "type": "fill_blank",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "中国地理",
+    "difficulty": "easy",
+    "question": "中国第二大河，发源于巴颜喀拉山，被视为中华民族\"母亲河\"的是________。",
+    "answer": "黄河",
+    "explanation": "黄河是中国第二大河，发源于巴颜喀拉山，黄河流域是中国文化最早的发祥地之一，被视为中华民族的\"母亲河\"。",
+    "tags": [
+      "地理",
+      "黄河"
+    ]
+  },
+  {
+    "id": 131,
+    "type": "fill_blank",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "中国地理",
+    "difficulty": "easy",
+    "question": "中国第一大河，发源于唐古拉山的是________。",
+    "answer": "长江",
+    "explanation": "长江是中国第一大河，发源于唐古拉山，水力资源丰富，在长江中下游地区孕育出较早的稻作文明。",
+    "tags": [
+      "地理",
+      "长江"
+    ]
+  },
+  {
+    "id": 132,
+    "type": "fill_blank",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "中国历史",
+    "difficulty": "easy",
+    "question": "中国历史上第一个王朝是________，开国君主是禹。",
+    "answer": "夏代",
+    "explanation": "夏代（约公元前2070-公元前1600）是中国历史上第一个王朝，开国君主为禹，从此至春秋末，奴隶社会长达2000年。",
+    "tags": [
+      "历史",
+      "夏代"
+    ]
+  },
+  {
+    "id": 133,
+    "type": "fill_blank",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "中国历史",
+    "difficulty": "medium",
+    "question": "夏代建立王位世袭制度，即\"________\"制度，改变了此前的禅让制。",
+    "answer": "家天下",
+    "explanation": "夏代建立了王位世袭制度（\"家天下\"），设立了九州，州长官称\"牧\"。",
+    "tags": [
+      "历史",
+      "制度"
+    ]
+  },
+  {
+    "id": 134,
+    "type": "fill_blank",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "中国历史",
+    "difficulty": "medium",
+    "question": "商代的重要事件\"________迁都\"，将都城由亳迁至殷。",
+    "answer": "盘庚",
+    "explanation": "盘庚迁都是商代的重要事件，将都城由亳迁至殷（今河南安阳小屯村附近），此后商代又称殷商。",
+    "tags": [
+      "历史",
+      "商代"
+    ]
+  },
+  {
+    "id": 135,
+    "type": "fill_blank",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "史学",
+    "difficulty": "easy",
+    "question": "我国第一部编年体史书是《________》，由孔子据鲁国史书修订。",
+    "answer": "春秋",
+    "explanation": "《春秋》是中国第一部编年体史书，孔子据鲁国史书修订而成。",
+    "tags": [
+      "史学",
+      "春秋"
+    ]
+  },
+  {
+    "id": 136,
+    "type": "fill_blank",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "史学",
+    "difficulty": "medium",
+    "question": "现存第一部叙事详细的编年体史书是《________》，左丘明著。",
+    "answer": "左传",
+    "explanation": "《左传》又称《春秋左氏传》，是现存第一部叙事详细的编年体史书，左丘明为解释《春秋》而作，代表了先秦史学的最高成就。",
+    "tags": [
+      "史学",
+      "左传"
+    ]
+  },
+  {
+    "id": 137,
+    "type": "fill_blank",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "史学",
+    "difficulty": "easy",
+    "question": "我国规模最大的编年体史书是《________》，宋代司马光主编。",
+    "answer": "资治通鉴",
+    "explanation": "《资治通鉴》是宋代司马光主编的规模最大的编年体史书，记载从周威烈王二十三年到后周世宗显德六年共1363年的历史。",
+    "tags": [
+      "史学",
+      "资治通鉴"
+    ]
+  },
+  {
+    "id": 138,
+    "type": "fill_blank",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "史学",
+    "difficulty": "easy",
+    "question": "我国第一部纪传体史书是《________》，汉代司马迁著。",
+    "answer": "史记",
+    "explanation": "《史记》是汉代司马迁所著的第一部纪传体通史，记载从黄帝到汉武帝共3000多年的历史，鲁迅誉之为\"史家之绝唱，无韵之《离骚》\"。",
+    "tags": [
+      "史学",
+      "史记"
+    ]
+  },
+  {
+    "id": 139,
+    "type": "fill_blank",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "史学",
+    "difficulty": "medium",
+    "question": "我国第一部纪传体断代史是《________》，汉代班固著。",
+    "answer": "汉书",
+    "explanation": "《汉书》是汉代班固所著的第一部纪传体断代史，以记载西汉一朝历史为主，开创了断代史的著史方法。",
+    "tags": [
+      "史学",
+      "汉书"
+    ]
+  },
+  {
+    "id": 140,
+    "type": "fill_blank",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "史学",
+    "difficulty": "hard",
+    "question": "我国第一部纪事本末体史书是《________》，南宋袁枢著。",
+    "answer": "通鉴纪事本末",
+    "explanation": "《通鉴纪事本末》是南宋袁枢所著的第一部纪事本末体史书，以事件为纲对《资治通鉴》进行改编，开创了以纪事为主的本末体。",
+    "tags": [
+      "史学",
+      "纪事本末"
+    ]
+  },
+  {
+    "id": 141,
+    "type": "fill_blank",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "中外交流",
+    "difficulty": "medium",
+    "question": "意大利威尼斯人________于1275年来华，其游记激起了欧洲人对东方的向往。",
+    "answer": "马可·波罗",
+    "explanation": "马可·波罗于1275年随父亲来华，在中国游历17年，其《马可·波罗游记》激起了欧洲人对东方的热烈向往。",
+    "tags": [
+      "交流",
+      "马可波罗"
+    ]
+  },
+  {
+    "id": 142,
+    "type": "fill_blank",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "中外交流",
+    "difficulty": "medium",
+    "question": "明末清初来华的意大利传教士________，采取\"习儒归汉\"的传教方式，与徐光启合译《几何原本》。",
+    "answer": "利玛窦",
+    "explanation": "利玛窦（1552-1610）是明末清初传教活动的先行者和奠基人，其传教方式为\"习儒归汉\"，与徐光启等合译了《几何原本》等著作。",
+    "tags": [
+      "交流",
+      "利玛窦"
+    ]
+  },
+  {
+    "id": 143,
+    "type": "fill_blank",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "中外交流",
+    "difficulty": "hard",
+    "question": "德国传教士________明末来华，顺治年间被任命为钦天监正，成为中国做官的第一个西方人。",
+    "answer": "汤若望",
+    "explanation": "汤若望是德国耶稣会士，明末来华，因准确预测日食被顺治帝任命为钦天监正，成为中国做官的第一个西方人，主持编定《时宪历》。",
+    "tags": [
+      "交流",
+      "汤若望"
+    ]
+  },
+  {
+    "id": 144,
+    "type": "fill_blank",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "史学",
+    "difficulty": "medium",
+    "question": "\"二十四史\"是我国古代二十四部正史的总称，皆属________体史书，由清代乾隆皇帝钦定。",
+    "answer": "纪传",
+    "explanation": "\"二十四史\"由清代乾隆皇帝钦定，皆属纪传体史书，共3249卷，约4000万字，记载了从黄帝到明末4000多年的历史。",
+    "tags": [
+      "史学",
+      "二十四史"
+    ]
+  },
+  {
+    "id": 145,
+    "type": "fill_blank",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "史学",
+    "difficulty": "hard",
+    "question": "我国第一部制度史专著是《________》，唐代杜佑著，与《通志》《文献通考》合称\"三通\"。",
+    "answer": "通典",
+    "explanation": "《通典》是唐代杜佑所著的第一部制度史专著，记载自上古至唐代宗时期历代典制的沿革，与《通志》《文献通考》合称\"三通\"。",
+    "tags": [
+      "史学",
+      "通典"
+    ]
+  },
+  {
+    "id": 146,
+    "type": "fill_blank",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch4",
+    "topic": "宗教信仰",
+    "difficulty": "easy",
+    "question": "佛教的\"四大名山\"指的是五台山、峨眉山、普陀山和________。",
+    "answer": "九华山",
+    "explanation": "佛教四大名山为：五台山（文殊菩萨道场）、峨眉山（普贤菩萨道场）、普陀山（观音菩萨道场）、九华山（地藏菩萨道场）。",
+    "tags": [
+      "佛教",
+      "四大名山"
+    ]
+  },
+  {
+    "id": 147,
+    "type": "fill_blank",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "哲学",
+    "difficulty": "medium",
+    "question": "\"经\"指六经，即《诗》《书》《礼》《易》《________》和《乐》。",
+    "answer": "春秋",
+    "explanation": "六经指《诗》《书》《礼》《易》《春秋》和《乐》，其中《乐》已失传，实际只有五经。",
+    "tags": [
+      "哲学",
+      "六经"
+    ]
+  },
+  {
+    "id": 148,
+    "type": "fill_blank",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "哲学",
+    "difficulty": "medium",
+    "question": "今文经派的代表人物是________，西汉时被立为\"官学\"。",
+    "answer": "董仲舒",
+    "explanation": "今文经派尊崇周公，重在阐述微言大义，代表人物是董仲舒，西汉时被立为\"官学\"。古文经派代表人物是郑玄。",
+    "tags": [
+      "哲学",
+      "经学"
+    ]
+  },
+  {
+    "id": 149,
+    "type": "fill_blank",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch6",
+    "topic": "戏曲",
+    "difficulty": "easy",
+    "question": "京剧的行当一共有四种：生、旦、________、丑。",
+    "answer": "净",
+    "explanation": "京剧行当为生、旦、净、丑四种（早先有末行，后与生行合并）。",
+    "tags": [
+      "戏曲",
+      "京剧"
+    ]
+  },
+  {
+    "id": 150,
+    "type": "single_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "地理",
+    "difficulty": "easy",
+    "question": "下列哪个不在中国七大文化古都之列？（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "安阳"
+      },
+      {
+        "key": "B",
+        "text": "西安"
+      },
+      {
+        "key": "C",
+        "text": "成都"
+      },
+      {
+        "key": "D",
+        "text": "杭州"
+      }
+    ],
+    "answer": "C",
+    "explanation": "中国七大文化古都是：安阳、西安、洛阳、开封、杭州、南京、北京。成都不在其中。",
+    "tags": [
+      "地理",
+      "古都"
+    ]
+  },
+  {
+    "id": 151,
+    "type": "single_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "史学",
+    "difficulty": "medium",
+    "question": "\"二十四史\"的体例统一为：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "编年体"
+      },
+      {
+        "key": "B",
+        "text": "纪传体"
+      },
+      {
+        "key": "C",
+        "text": "纪事本末体"
+      },
+      {
+        "key": "D",
+        "text": "典章制度体"
+      }
+    ],
+    "answer": "B",
+    "explanation": "\"二十四史\"皆属纪传体史书，由清代乾隆皇帝钦定。纪传体以人物为纲，穿插史实。",
+    "tags": [
+      "史学",
+      "二十四史"
+    ]
+  },
+  {
+    "id": 152,
+    "type": "single_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "史学",
+    "difficulty": "easy",
+    "question": "中国历史上第一部纪传体通史是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "《汉书》"
+      },
+      {
+        "key": "B",
+        "text": "《史记》"
+      },
+      {
+        "key": "C",
+        "text": "《资治通鉴》"
+      },
+      {
+        "key": "D",
+        "text": "《春秋》"
+      }
+    ],
+    "answer": "B",
+    "explanation": "《史记》是汉代司马迁所著的中国历史上第一部纪传体通史，记载从黄帝到汉武帝共3000多年历史。",
+    "tags": [
+      "史学",
+      "史记"
+    ]
+  },
+  {
+    "id": 153,
+    "type": "single_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "史学",
+    "difficulty": "medium",
+    "question": "编年体史书的创始人是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "司马迁"
+      },
+      {
+        "key": "B",
+        "text": "班固"
+      },
+      {
+        "key": "C",
+        "text": "左丘明"
+      },
+      {
+        "key": "D",
+        "text": "袁枢"
+      }
+    ],
+    "answer": "C",
+    "explanation": "编年体以时间为纲，左丘明创。其著作《左传》是现存第一部叙事详细的编年体史书。",
+    "tags": [
+      "史学",
+      "编年体"
+    ]
+  },
+  {
+    "id": 154,
+    "type": "single_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "历史",
+    "difficulty": "medium",
+    "question": "中国历史上第一个王朝是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "商代"
+      },
+      {
+        "key": "B",
+        "text": "周代"
+      },
+      {
+        "key": "C",
+        "text": "夏代"
+      },
+      {
+        "key": "D",
+        "text": "秦代"
+      }
+    ],
+    "answer": "C",
+    "explanation": "夏代（约公元前2070年）是中国历史上第一个王朝，开国君主为禹，建立了王位世袭制度。",
+    "tags": [
+      "历史",
+      "夏代"
+    ]
+  },
+  {
+    "id": 155,
+    "type": "single_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "中外交流",
+    "difficulty": "medium",
+    "question": "唐代来华，官至秘书监，与李白、王维交厚的日本僧人是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "空海"
+      },
+      {
+        "key": "B",
+        "text": "最澄"
+      },
+      {
+        "key": "C",
+        "text": "阿倍仲麻吕"
+      },
+      {
+        "key": "D",
+        "text": "吉备真备"
+      }
+    ],
+    "answer": "C",
+    "explanation": "阿倍仲麻吕（汉名晁衡）是唐代来华的日本僧人，参加科举中进士，官至秘书监，与李白、王维等诗人交厚。",
+    "tags": [
+      "交流",
+      "遣唐使"
+    ]
+  },
+  {
+    "id": 156,
+    "type": "single_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "中外交流",
+    "difficulty": "medium",
+    "question": "马可·波罗是哪国人？（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "法国"
+      },
+      {
+        "key": "B",
+        "text": "英国"
+      },
+      {
+        "key": "C",
+        "text": "意大利"
+      },
+      {
+        "key": "D",
+        "text": "西班牙"
+      }
+    ],
+    "answer": "C",
+    "explanation": "马可·波罗是意大利威尼斯人，1275年随父亲来华，在中国游历17年，其《游记》对欧洲影响巨大。",
+    "tags": [
+      "交流",
+      "马可波罗"
+    ]
+  },
+  {
+    "id": 157,
+    "type": "single_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "中外交流",
+    "difficulty": "hard",
+    "question": "在中国做官的第一个西方人是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "利玛窦"
+      },
+      {
+        "key": "B",
+        "text": "南怀仁"
+      },
+      {
+        "key": "C",
+        "text": "汤若望"
+      },
+      {
+        "key": "D",
+        "text": "马可·波罗"
+      }
+    ],
+    "answer": "C",
+    "explanation": "汤若望是德国耶稣会士，因准确预测日食被顺治帝任命为钦天监正，成为在中国做官的第一个西方人。",
+    "tags": [
+      "交流",
+      "汤若望"
+    ]
+  },
+  {
+    "id": 158,
+    "type": "single_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "哲学",
+    "difficulty": "medium",
+    "question": "古文经派尊崇的对象是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "周公"
+      },
+      {
+        "key": "B",
+        "text": "孔子"
+      },
+      {
+        "key": "C",
+        "text": "孟子"
+      },
+      {
+        "key": "D",
+        "text": "董仲舒"
+      }
+    ],
+    "answer": "B",
+    "explanation": "古文经派尊崇孔子，重在训诂，代表人物是郑玄。今文经派尊崇周公，重在阐述微言大义。",
+    "tags": [
+      "哲学",
+      "经学"
+    ]
+  },
+  {
+    "id": 159,
+    "type": "single_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch6",
+    "topic": "戏曲",
+    "difficulty": "easy",
+    "question": "京剧的行当共有几种？（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "3种"
+      },
+      {
+        "key": "B",
+        "text": "4种"
+      },
+      {
+        "key": "C",
+        "text": "5种"
+      },
+      {
+        "key": "D",
+        "text": "6种"
+      }
+    ],
+    "answer": "B",
+    "explanation": "京剧行当为生、旦、净、丑四种（早先有末行，后与生行合并）。",
+    "tags": [
+      "戏曲",
+      "京剧"
+    ]
+  },
+  {
+    "id": 160,
+    "type": "single_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "史学",
+    "difficulty": "medium",
+    "question": "纪事本末体的创始人是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "司马迁"
+      },
+      {
+        "key": "B",
+        "text": "左丘明"
+      },
+      {
+        "key": "C",
+        "text": "袁枢"
+      },
+      {
+        "key": "D",
+        "text": "杜佑"
+      }
+    ],
+    "answer": "C",
+    "explanation": "纪事本末体以事件为纲，南宋袁枢创。其《通鉴纪事本末》是第一部纪事本末体史书。",
+    "tags": [
+      "史学",
+      "纪事本末"
+    ]
+  },
+  {
+    "id": 161,
+    "type": "single_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "史学",
+    "difficulty": "easy",
+    "question": "典章制度史的创始人是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "司马迁"
+      },
+      {
+        "key": "B",
+        "text": "班固"
+      },
+      {
+        "key": "C",
+        "text": "杜佑"
+      },
+      {
+        "key": "D",
+        "text": "郑玄"
+      }
+    ],
+    "answer": "C",
+    "explanation": "典章制度史专门记载历代典章制度，唐代杜佑创，以\"三通\"（《通典》《通志》《文献通考》）为代表。",
+    "tags": [
+      "史学",
+      "制度史"
+    ]
+  },
+  {
+    "id": 162,
+    "type": "single_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch6",
+    "topic": "戏曲",
+    "difficulty": "medium",
+    "question": "京剧四大名旦不包括：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "梅兰芳"
+      },
+      {
+        "key": "B",
+        "text": "尚小云"
+      },
+      {
+        "key": "C",
+        "text": "谭鑫培"
+      },
+      {
+        "key": "D",
+        "text": "荀慧生"
+      }
+    ],
+    "answer": "C",
+    "explanation": "京剧四大名旦是梅兰芳、尚小云、程砚秋、荀慧生。谭鑫培是著名的老生演员。",
+    "tags": [
+      "戏曲",
+      "京剧"
+    ]
+  },
+  {
+    "id": 163,
+    "type": "single_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "中外交流",
+    "difficulty": "medium",
+    "question": "鉴真东渡日本弘扬的是佛教哪个宗派？（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "天台宗"
+      },
+      {
+        "key": "B",
+        "text": "律宗"
+      },
+      {
+        "key": "C",
+        "text": "禅宗"
+      },
+      {
+        "key": "D",
+        "text": "密宗"
+      }
+    ],
+    "answer": "B",
+    "explanation": "鉴真是唐代扬州大明寺僧人，应日本僧人邀请弘传佛法，六次东渡，最终成功到达日本，弘扬律宗，成为日本律宗始祖。",
+    "tags": [
+      "交流",
+      "鉴真"
+    ]
+  },
+  {
+    "id": 164,
+    "type": "single_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "地理",
+    "difficulty": "medium",
+    "question": "黄河流域分布着五大古都，下列不属于黄河流域古都的是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "安阳"
+      },
+      {
+        "key": "B",
+        "text": "西安"
+      },
+      {
+        "key": "C",
+        "text": "南京"
+      },
+      {
+        "key": "D",
+        "text": "洛阳"
+      }
+    ],
+    "answer": "C",
+    "explanation": "黄河流域分布着五大古都：安阳、西安、洛阳、开封和北京。南京和杭州属于长江流域的古都。",
+    "tags": [
+      "地理",
+      "古都"
+    ]
+  },
+  {
+    "id": 165,
+    "type": "multi_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "地理",
+    "difficulty": "easy",
+    "question": "下列属于中国七大文化古都的有：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "安阳"
+      },
+      {
+        "key": "B",
+        "text": "西安"
+      },
+      {
+        "key": "C",
+        "text": "成都"
+      },
+      {
+        "key": "D",
+        "text": "南京"
+      },
+      {
+        "key": "E",
+        "text": "北京"
+      }
+    ],
+    "answer": "ABDE",
+    "explanation": "中国七大文化古都是：安阳、西安、洛阳、开封、杭州、南京、北京。成都不在其中。",
+    "tags": [
+      "地理",
+      "古都"
+    ]
+  },
+  {
+    "id": 166,
+    "type": "multi_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "史学",
+    "difficulty": "medium",
+    "question": "正史的三种体裁包括：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "编年体"
+      },
+      {
+        "key": "B",
+        "text": "语录体"
+      },
+      {
+        "key": "C",
+        "text": "纪传体"
+      },
+      {
+        "key": "D",
+        "text": "纪事本末体"
+      }
+    ],
+    "answer": "ACD",
+    "explanation": "正史有三种体裁：编年体（左丘明创）、纪传体（司马迁创）、纪事本末体（袁枢创）。",
+    "tags": [
+      "史学",
+      "体裁"
+    ]
+  },
+  {
+    "id": 167,
+    "type": "multi_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "哲学",
+    "difficulty": "medium",
+    "question": "下列属于\"六经\"的有：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "《诗》"
+      },
+      {
+        "key": "B",
+        "text": "《书》"
+      },
+      {
+        "key": "C",
+        "text": "《论语》"
+      },
+      {
+        "key": "D",
+        "text": "《易》"
+      },
+      {
+        "key": "E",
+        "text": "《春秋》"
+      }
+    ],
+    "answer": "ABDE",
+    "explanation": "六经指《诗》《书》《礼》《易》《春秋》和《乐》，其中《乐》已失传。《论语》是四书之一，不属于六经。",
+    "tags": [
+      "哲学",
+      "六经"
+    ]
+  },
+  {
+    "id": 168,
+    "type": "multi_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch6",
+    "topic": "戏曲",
+    "difficulty": "easy",
+    "question": "京剧四大名旦包括：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "梅兰芳"
+      },
+      {
+        "key": "B",
+        "text": "尚小云"
+      },
+      {
+        "key": "C",
+        "text": "程砚秋"
+      },
+      {
+        "key": "D",
+        "text": "荀慧生"
+      },
+      {
+        "key": "E",
+        "text": "谭鑫培"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "京剧四大名旦是梅兰芳、尚小云、程砚秋、荀慧生。谭鑫培是著名的老生演员，不属于四大名旦。",
+    "tags": [
+      "戏曲",
+      "京剧"
+    ]
+  },
+  {
+    "id": 169,
+    "type": "multi_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "史学",
+    "difficulty": "medium",
+    "question": "\"三通\"包括下列哪些著作？（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "《通典》"
+      },
+      {
+        "key": "B",
+        "text": "《资治通鉴》"
+      },
+      {
+        "key": "C",
+        "text": "《通志》"
+      },
+      {
+        "key": "D",
+        "text": "《文献通考》"
+      }
+    ],
+    "answer": "ACD",
+    "explanation": "\"三通\"指《通典》（唐·杜佑）、《通志》、《文献通考》，是典章制度史的代表作。《资治通鉴》是编年体史书，不属于\"三通\"。",
+    "tags": [
+      "史学",
+      "三通"
+    ]
+  },
+  {
+    "id": 170,
+    "type": "multi_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "中外交流",
+    "difficulty": "medium",
+    "question": "下列哪些是明末清初来华的西方传教士？（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "利玛窦"
+      },
+      {
+        "key": "B",
+        "text": "汤若望"
+      },
+      {
+        "key": "C",
+        "text": "南怀仁"
+      },
+      {
+        "key": "D",
+        "text": "马可·波罗"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "利玛窦、汤若望、南怀仁都是明末清初来华的耶稣会传教士。马可·波罗是元代来华的意大利商人，不是传教士。",
+    "tags": [
+      "交流",
+      "传教士"
+    ]
+  },
+  {
+    "id": 171,
+    "type": "multi_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "历史",
+    "difficulty": "medium",
+    "question": "关于夏代的正确说法有：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "是中国历史上第一个王朝"
+      },
+      {
+        "key": "B",
+        "text": "开国君主是禹"
+      },
+      {
+        "key": "C",
+        "text": "建立了王位世袭制度（\"家天下\"）"
+      },
+      {
+        "key": "D",
+        "text": "设立了九州，州长官称\"牧\""
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "夏代是中国历史上第一个王朝，开国君主禹，建立了王位世袭制度（\"家天下\"），设立九州，州长官称\"牧\"。二里头遗址是夏代国都。",
+    "tags": [
+      "历史",
+      "夏代"
+    ]
+  },
+  {
+    "id": 172,
+    "type": "multi_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "史学",
+    "difficulty": "medium",
+    "question": "关于《史记》的正确说法有：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "汉代司马迁著"
+      },
+      {
+        "key": "B",
+        "text": "是中国第一部纪传体通史"
+      },
+      {
+        "key": "C",
+        "text": "体例结构分五体：本纪、世家、列传、书、表"
+      },
+      {
+        "key": "D",
+        "text": "鲁迅誉之为\"史家之绝唱，无韵之《离骚》\""
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "《史记》是汉代司马迁著的中国第一部纪传体通史，分本纪、世家、列传、书、表五体，共130篇。鲁迅誉之为\"史家之绝唱，无韵之《离骚》\"。",
+    "tags": [
+      "史学",
+      "史记"
+    ]
+  },
+  {
+    "id": 173,
+    "type": "multi_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch6",
+    "topic": "戏曲",
+    "difficulty": "medium",
+    "question": "下列哪些是京剧四大徽班？（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "三庆"
+      },
+      {
+        "key": "B",
+        "text": "四喜"
+      },
+      {
+        "key": "C",
+        "text": "春台"
+      },
+      {
+        "key": "D",
+        "text": "和春"
+      },
+      {
+        "key": "E",
+        "text": "福寿"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "四大徽班为\"三庆\"\"四喜\"\"春台\"\"和春\"（简记为：三四喜庆和春台）。清乾隆五十五年四大徽班进京，后与汉调合流形成京剧。",
+    "tags": [
+      "戏曲",
+      "徽班"
+    ]
+  },
+  {
+    "id": 174,
+    "type": "multi_choice",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "史学",
+    "difficulty": "hard",
+    "question": "下列史书属于编年体的有：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "《春秋》"
+      },
+      {
+        "key": "B",
+        "text": "《左传》"
+      },
+      {
+        "key": "C",
+        "text": "《资治通鉴》"
+      },
+      {
+        "key": "D",
+        "text": "《史记》"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "《春秋》是第一部编年体史书，《左传》是现存第一部叙事详细的编年体史书，《资治通鉴》是规模最大的编年体史书。《史记》是纪传体，不属于编年体。",
+    "tags": [
+      "史学",
+      "编年体"
+    ]
+  },
+  {
+    "id": 175,
+    "type": "term_explain",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "史学",
+    "difficulty": "hard",
+    "question": "解释：二十四史",
+    "answer": "二十四史是我国古代二十四部正史的总称，皆属纪传体史书，由清代乾隆皇帝钦定。从《史记》到《明史》，共3249卷，约4000万字，记载了从传说中的黄帝到明末4000多年的历史。清代之后，史学界倾向于将《清史稿》与二十四史合称为\"二十五史\"。",
+    "explanation": "\"二十四史\"由清乾隆帝钦定，此后\"正史\"一称即专指\"二十四史\"。按《四库全书》规定，未经皇帝批准不得列入正史。",
+    "tags": [
+      "史学",
+      "二十四史"
+    ]
+  },
+  {
+    "id": 176,
+    "type": "term_explain",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "哲学",
+    "difficulty": "hard",
+    "question": "解释：今文经与古文经",
+    "answer": "\"经\"指六经。古文经是先秦时用古文（篆书）书写的儒家经典，由汉代学者训释，尊崇孔子，重在训诂，代表人物郑玄。今文经是两汉时用隶书抄录的儒家经典定本，尊崇周公，重在阐述微言大义，代表人物董仲舒，西汉时被立为\"官学\"。至唐代，孔颖达编《五经正义》对两派做了折中。",
+    "explanation": "经学两大流派源于抄录字体的不同。古文经派东汉时受重视，今文经派西汉时受重视。",
+    "tags": [
+      "哲学",
+      "经学"
+    ]
+  },
+  {
+    "id": 177,
+    "type": "term_explain",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "史学",
+    "difficulty": "medium",
+    "question": "解释：三通",
+    "answer": "\"三通\"指《通典》《通志》《文献通考》三部典章制度史著作的统称。《通典》是第一部制度史专著，唐代杜佑著，记载自上古至唐代宗时期历代典制沿革。三通对研究制度史和器物史有重要价值。",
+    "explanation": "典章制度史由唐代杜佑创，\"三通\"是其代表作，专门记载历代典章制度。",
+    "tags": [
+      "史学",
+      "三通"
+    ]
+  },
+  {
+    "id": 178,
+    "type": "term_explain",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch6",
+    "topic": "戏曲",
+    "difficulty": "medium",
+    "question": "解释：京剧四大名旦",
+    "answer": "京剧四大名旦指梅兰芳、尚小云、程砚秋、荀慧生四位著名的京剧旦角表演艺术家。他们各自形成了独特的艺术风格，代表了京剧旦角艺术的最高成就。",
+    "explanation": "四大名旦是京剧发展史上的重要代表人物，各自创立了不同的表演流派。",
+    "tags": [
+      "戏曲",
+      "京剧"
+    ]
+  },
+  {
+    "id": 179,
+    "type": "term_explain",
+    "subject": "中国文化",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "文化",
+    "difficulty": "medium",
+    "question": "解释：中国文化",
+    "answer": "中国文化一般指中国的传统文化，是中华民族在长期历史发展中形成的，以汉族文化为主体，融合各少数民族文化与外来文化，并对世界文化有广泛影响的中华民族集体智慧的结晶。中国文化的主体是道德和哲学，是天人合一、心物一体的，注重精神和谐。",
+    "explanation": "与西方文化的主体是宗教与科学不同，中国文化强调天人合一，注重天地人之间的统一。",
+    "tags": [
+      "文化",
+      "定义"
+    ]
+  }
+]

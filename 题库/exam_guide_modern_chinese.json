@@ -1,0 +1,1238 @@
+[
+  {
+    "id": 1,
+    "type": "fill_blank",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "绪论",
+    "difficulty": "easy",
+    "question": "现代汉语方言大致分为七大方言区：北方方言、吴方言、闽方言、赣方言、客家方言、________和粤方言。",
+    "answer": "湘方言",
+    "explanation": "现代汉语七大方言区：北方话、吴方言、闽方言、赣方言、客家方言、湘方言、粤方言。",
+    "tags": [
+      "方言"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "fill_blank",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "语音",
+    "difficulty": "easy",
+    "question": "普通话语音方面有三大特点：没有复辅音、元音占优势、________。",
+    "answer": "有声调",
+    "explanation": "普通话语音的三大特点：没有复辅音、元音占优势、有声调。",
+    "tags": [
+      "语音"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "fill_blank",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "语音",
+    "difficulty": "medium",
+    "question": "在普通话音节结构中，________和声调是必不可少的成分。",
+    "answer": "韵腹",
+    "explanation": "普通话音节结构中，只有韵腹和声调是必不可少的成分。",
+    "tags": [
+      "音节"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "fill_blank",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "语音",
+    "difficulty": "medium",
+    "question": "最复杂的普通话音节包括________个音素和一个声调。",
+    "answer": "四",
+    "explanation": "最复杂的普通话音节包括四个音素和一个声调。",
+    "tags": [
+      "音节"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "fill_blank",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "语音",
+    "difficulty": "medium",
+    "question": "韵母按开头元音不同分为四呼：开口呼、齐齿呼、合口呼和________。",
+    "answer": "撮口呼",
+    "explanation": "四呼是按照韵母开头元音的不同对普通话韵母的分类：开口呼、齐齿呼、合口呼和撮口呼。",
+    "tags": [
+      "韵母"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "fill_blank",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "语音",
+    "difficulty": "medium",
+    "question": "声调的物理属性可以用________来描写，即五度标记法。",
+    "answer": "音高",
+    "explanation": "声调的物理属性主要是音高，五度标记法用1-5度来描写声调的相对音高变化。",
+    "tags": [
+      "声调"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "fill_blank",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "汉字",
+    "difficulty": "easy",
+    "question": "在汉字形体演变史中，________是古今文字的分水岭。",
+    "answer": "隶书",
+    "explanation": "隶书是古今文字的分水岭，之前的甲骨文、金文、篆书属于古文字，之后的楷书、行书属于今文字。",
+    "tags": [
+      "汉字"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "fill_blank",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "汉字",
+    "difficulty": "medium",
+    "question": "根据六书理论，汉字的四种造字法是象形、指事、会意和________。",
+    "answer": "形声",
+    "explanation": "六书中，象形、指事、会意、形声是四种造字法，转注和假借是两种用字法。",
+    "tags": [
+      "六书"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "fill_blank",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "汉字",
+    "difficulty": "easy",
+    "question": "现代汉字中数量最多的结构类型是________字。",
+    "answer": "形声",
+    "explanation": "形声字是现代汉字的主体，占现代汉字的90%以上。",
+    "tags": [
+      "汉字"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "fill_blank",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "汉字",
+    "difficulty": "medium",
+    "question": "形声字由________和声旁两部分组成。",
+    "answer": "形旁",
+    "explanation": "形声字由形旁（表意）和声旁（表音）组成，形旁表示字的意义范畴，声旁提示字的读音。",
+    "tags": [
+      "形声字"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "fill_blank",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "汉字",
+    "difficulty": "hard",
+    "question": "形声字根据形旁和声旁的相对位置主要有六种：左形右声、右形左声、上形下声、下形上声、外形内声和________。",
+    "answer": "内形外声",
+    "explanation": "形声字六种结构类型：左形右声、右形左声、上形下声、下形上声、外形内声、内形外声。",
+    "tags": [
+      "形声字"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "fill_blank",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "词汇",
+    "difficulty": "medium",
+    "question": "在现代汉语中，词类划分的主要依据是词的________。",
+    "answer": "语法功能",
+    "explanation": "现代汉语词类划分的主要依据是词的语法功能（或句法分布），兼顾词的形态和意义。",
+    "tags": [
+      "词类"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "fill_blank",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "词汇",
+    "difficulty": "easy",
+    "question": "词义包括理性义和________义。后者附着在理性义上表达特定感受。",
+    "answer": "色彩",
+    "explanation": "词义包括理性义和色彩义。色彩义附着在理性义上面表达人或语境所赋予的特定感受。",
+    "tags": [
+      "词义"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "fill_blank",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "词汇",
+    "difficulty": "medium",
+    "question": "色彩义可以分为感情色彩、语体色彩和________色彩三类。",
+    "answer": "形象",
+    "explanation": "色彩义主要分为三类：感情色彩、语体色彩和形象色彩。",
+    "tags": [
+      "词义"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "fill_blank",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "语法",
+    "difficulty": "medium",
+    "question": "以语气为标准划分句子，句子可以分为陈述句、疑问句、祈使句和________。",
+    "answer": "感叹句",
+    "explanation": "按语气标准，句子分为四种类型：陈述句、疑问句、祈使句和感叹句。",
+    "tags": [
+      "句子"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "fill_blank",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "语法",
+    "difficulty": "medium",
+    "question": "疑问句按结构分为是非问、特指问、选择问和________四种。",
+    "answer": "正反问",
+    "explanation": "疑问句按结构特点分为四种：是非问句、特指问句、选择问句和正反问句。",
+    "tags": [
+      "疑问句"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "fill_blank",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "词汇",
+    "difficulty": "hard",
+    "question": "语素是语言中最小的________结合体。",
+    "answer": "音义",
+    "explanation": "语素是语言中最小的音义结合体，是构词的基本单位。",
+    "tags": [
+      "语素"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "fill_blank",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "词汇",
+    "difficulty": "medium",
+    "question": "具有字形归类作用，位于字典中各部的首字是________。",
+    "answer": "部首",
+    "explanation": "部首是具有字形归类作用的偏旁，是字书中各部的首字。",
+    "tags": [
+      "汉字"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "fill_blank",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "词汇",
+    "difficulty": "medium",
+    "question": "从词类角度来看，\"大型\"\"男\"\"女\"等属于________词。",
+    "answer": "区别",
+    "explanation": "区别词是表示事物属性的词，如\"大型、男、女、正、副\"等，只能修饰名词或用在\"的\"字前面。",
+    "tags": [
+      "词类"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "fill_blank",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "语音",
+    "difficulty": "hard",
+    "question": "普通话中，韵母\"o\"只能拼________声母。",
+    "answer": "唇音",
+    "explanation": "普通话中韵母\"o\"只拼唇音声母（b、p、m、f），韵母\"uo\"不能拼唇音声母。",
+    "tags": [
+      "拼合规律"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "single_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "绪论",
+    "difficulty": "easy",
+    "question": "下列哪项不属于现代汉语七大方言区？（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "北方方言"
+      },
+      {
+        "key": "B",
+        "text": "吴方言"
+      },
+      {
+        "key": "C",
+        "text": "四川方言"
+      },
+      {
+        "key": "D",
+        "text": "粤方言"
+      }
+    ],
+    "answer": "C",
+    "explanation": "现代汉语七大方言区是：北方话、吴方言、闽方言、赣方言、客家方言、湘方言、粤方言。四川话属于北方方言的一个次方言。",
+    "tags": [
+      "方言"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "single_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "语音",
+    "difficulty": "medium",
+    "question": "普通话语音的三大特点不包括：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "没有复辅音"
+      },
+      {
+        "key": "B",
+        "text": "元音占优势"
+      },
+      {
+        "key": "C",
+        "text": "有声调"
+      },
+      {
+        "key": "D",
+        "text": "有入声"
+      }
+    ],
+    "answer": "D",
+    "explanation": "普通话语音三大特点是：没有复辅音、元音占优势、有声调。普通话没有入声。",
+    "tags": [
+      "语音"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "single_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "语音",
+    "difficulty": "medium",
+    "question": "在普通话音节结构中，必不可少的成分是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "声母和声调"
+      },
+      {
+        "key": "B",
+        "text": "韵腹和声调"
+      },
+      {
+        "key": "C",
+        "text": "声母和韵母"
+      },
+      {
+        "key": "D",
+        "text": "韵头和韵尾"
+      }
+    ],
+    "answer": "B",
+    "explanation": "普通话音节结构中，只有韵腹和声调是必不可少的成分。",
+    "tags": [
+      "音节"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "single_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "汉字",
+    "difficulty": "easy",
+    "question": "古今文字的分水岭是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "甲骨文"
+      },
+      {
+        "key": "B",
+        "text": "金文"
+      },
+      {
+        "key": "C",
+        "text": "隶书"
+      },
+      {
+        "key": "D",
+        "text": "楷书"
+      }
+    ],
+    "answer": "C",
+    "explanation": "隶书是古今文字的分水岭，隶书之前的文字属古文字，之后属今文字。",
+    "tags": [
+      "汉字"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "single_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "汉字",
+    "difficulty": "medium",
+    "question": "现代汉字中数量最多的结构类型是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "象形字"
+      },
+      {
+        "key": "B",
+        "text": "指事字"
+      },
+      {
+        "key": "C",
+        "text": "会意字"
+      },
+      {
+        "key": "D",
+        "text": "形声字"
+      }
+    ],
+    "answer": "D",
+    "explanation": "形声字是现代汉字的主体，占90%以上。",
+    "tags": [
+      "汉字"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "single_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "词汇",
+    "difficulty": "medium",
+    "question": "现代汉语词类划分的主要依据是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "词的意义"
+      },
+      {
+        "key": "B",
+        "text": "词的形态"
+      },
+      {
+        "key": "C",
+        "text": "词的语法功能"
+      },
+      {
+        "key": "D",
+        "text": "词的音节数量"
+      }
+    ],
+    "answer": "C",
+    "explanation": "现代汉语词类划分的主要依据是词的语法功能（句法分布），兼顾形态和意义。",
+    "tags": [
+      "词类"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "single_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "语法",
+    "difficulty": "easy",
+    "question": "按语气划分，\"请你把门关上\"属于：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "陈述句"
+      },
+      {
+        "key": "B",
+        "text": "疑问句"
+      },
+      {
+        "key": "C",
+        "text": "祈使句"
+      },
+      {
+        "key": "D",
+        "text": "感叹句"
+      }
+    ],
+    "answer": "C",
+    "explanation": "\"请你把门关上\"表达命令、请求的语气，属于祈使句。",
+    "tags": [
+      "句子类型"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "single_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "语法",
+    "difficulty": "medium",
+    "question": "\"你吃了吗？\"属于哪种疑问句类型？（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "是非问"
+      },
+      {
+        "key": "B",
+        "text": "特指问"
+      },
+      {
+        "key": "C",
+        "text": "选择问"
+      },
+      {
+        "key": "D",
+        "text": "正反问"
+      }
+    ],
+    "answer": "A",
+    "explanation": "是非问句用\"吗\"提问，要求用\"是/不是\"回答。\"你吃了吗\"即属此类。",
+    "tags": [
+      "疑问句"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "single_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "词汇",
+    "difficulty": "medium",
+    "question": "\"蝙蝠侠\"这个词中包含几个语素？（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "1个"
+      },
+      {
+        "key": "B",
+        "text": "2个"
+      },
+      {
+        "key": "C",
+        "text": "3个"
+      },
+      {
+        "key": "D",
+        "text": "4个"
+      }
+    ],
+    "answer": "C",
+    "explanation": "\"蝙蝠侠\"包含三个语素：蝙蝠、侠。\"蝙蝠\"是一个语素（联绵词），\"侠\"是一个语素。",
+    "tags": [
+      "语素"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "single_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "词汇",
+    "difficulty": "hard",
+    "question": "下列词中属于区别词的是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "漂亮"
+      },
+      {
+        "key": "B",
+        "text": "大型"
+      },
+      {
+        "key": "C",
+        "text": "跑步"
+      },
+      {
+        "key": "D",
+        "text": "我们"
+      }
+    ],
+    "answer": "B",
+    "explanation": "区别词表示事物属性，如\"大型、男、女、正、副\"等。\"漂亮\"是形容词，\"跑步\"是动词，\"我们\"是代词。",
+    "tags": [
+      "词类"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "single_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "语音",
+    "difficulty": "medium",
+    "question": "\"希望\"中\"希\"的韵母属于：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "开口呼"
+      },
+      {
+        "key": "B",
+        "text": "齐齿呼"
+      },
+      {
+        "key": "C",
+        "text": "合口呼"
+      },
+      {
+        "key": "D",
+        "text": "撮口呼"
+      }
+    ],
+    "answer": "B",
+    "explanation": "\"希\"的韵母是i，i充当韵腹，属于齐齿呼。",
+    "tags": [
+      "四呼"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "single_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "语音",
+    "difficulty": "medium",
+    "question": "普通话中，韵母\"o\"只能拼什么声母？（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "舌根音声母"
+      },
+      {
+        "key": "B",
+        "text": "舌尖音声母"
+      },
+      {
+        "key": "C",
+        "text": "唇音声母"
+      },
+      {
+        "key": "D",
+        "text": "所有声母"
+      }
+    ],
+    "answer": "C",
+    "explanation": "普通话中韵母\"o\"只拼唇音声母（b、p、m、f），如\"bo、po、mo、fo\"。",
+    "tags": [
+      "拼合规律"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "single_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "汉字",
+    "difficulty": "medium",
+    "question": "\"河\"字属于形声字中的哪种类型？（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "上形下声"
+      },
+      {
+        "key": "B",
+        "text": "右形左声"
+      },
+      {
+        "key": "C",
+        "text": "左形右声"
+      },
+      {
+        "key": "D",
+        "text": "外形内声"
+      }
+    ],
+    "answer": "C",
+    "explanation": "\"河\"的形旁是\"氵\"在左，声旁是\"可\"在右，属于左形右声。",
+    "tags": [
+      "形声字"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "single_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "词汇",
+    "difficulty": "hard",
+    "question": "词义中表达人或语境所赋予的特定感受的是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "理性义"
+      },
+      {
+        "key": "B",
+        "text": "色彩义"
+      },
+      {
+        "key": "C",
+        "text": "语法义"
+      },
+      {
+        "key": "D",
+        "text": "概念义"
+      }
+    ],
+    "answer": "B",
+    "explanation": "色彩义（又称附属义、感受义）附着在理性义上表达特定感受，包括感情色彩、语体色彩、形象色彩。",
+    "tags": [
+      "词义"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "single_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "汉字",
+    "difficulty": "hard",
+    "question": "下列哪个不属于六书中的四种造字法？（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "象形"
+      },
+      {
+        "key": "B",
+        "text": "指事"
+      },
+      {
+        "key": "C",
+        "text": "转注"
+      },
+      {
+        "key": "D",
+        "text": "形声"
+      }
+    ],
+    "answer": "C",
+    "explanation": "六书中，象形、指事、会意、形声是造字法；转注和假借是用字法。",
+    "tags": [
+      "六书"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "multi_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "语音",
+    "difficulty": "medium",
+    "question": "普通话语音的三大特点包括：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "没有复辅音"
+      },
+      {
+        "key": "B",
+        "text": "元音占优势"
+      },
+      {
+        "key": "C",
+        "text": "有声调"
+      },
+      {
+        "key": "D",
+        "text": "有入声"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "普通话语音三大特点：没有复辅音、元音占优势、有声调。普通话没有入声。",
+    "tags": [
+      "语音"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "multi_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "语音",
+    "difficulty": "medium",
+    "question": "韵母按开头元音不同分为四呼，包括：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "开口呼"
+      },
+      {
+        "key": "B",
+        "text": "齐齿呼"
+      },
+      {
+        "key": "C",
+        "text": "合口呼"
+      },
+      {
+        "key": "D",
+        "text": "撮口呼"
+      },
+      {
+        "key": "E",
+        "text": "闭口呼"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "四呼：开口呼、齐齿呼、合口呼、撮口呼。没有\"闭口呼\"。",
+    "tags": [
+      "四呼"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "multi_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "汉字",
+    "difficulty": "easy",
+    "question": "下列属于六书造字法的有：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "象形"
+      },
+      {
+        "key": "B",
+        "text": "指事"
+      },
+      {
+        "key": "C",
+        "text": "会意"
+      },
+      {
+        "key": "D",
+        "text": "形声"
+      },
+      {
+        "key": "E",
+        "text": "转注"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "象形、指事、会意、形声是造字法。转注和假借是用字法。",
+    "tags": [
+      "六书"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "multi_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "语法",
+    "difficulty": "medium",
+    "question": "按语气划分，句子的类型包括：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "陈述句"
+      },
+      {
+        "key": "B",
+        "text": "疑问句"
+      },
+      {
+        "key": "C",
+        "text": "祈使句"
+      },
+      {
+        "key": "D",
+        "text": "感叹句"
+      },
+      {
+        "key": "E",
+        "text": "被动句"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "按语气标准划分，句子分为四种类型：陈述句、疑问句、祈使句、感叹句。被动句是按结构标准划分的。",
+    "tags": [
+      "句子类型"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "multi_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "语法",
+    "difficulty": "hard",
+    "question": "疑问句按结构可分为：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "是非问"
+      },
+      {
+        "key": "B",
+        "text": "特指问"
+      },
+      {
+        "key": "C",
+        "text": "选择问"
+      },
+      {
+        "key": "D",
+        "text": "正反问"
+      },
+      {
+        "key": "E",
+        "text": "反问"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "疑问句按结构特点分为四种：是非问句、特指问句、选择问句、正反问句。反问是一种修辞用法。",
+    "tags": [
+      "疑问句"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "multi_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "词汇",
+    "difficulty": "medium",
+    "question": "色彩义主要包括哪些类型？（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "感情色彩"
+      },
+      {
+        "key": "B",
+        "text": "语体色彩"
+      },
+      {
+        "key": "C",
+        "text": "形象色彩"
+      },
+      {
+        "key": "D",
+        "text": "语法色彩"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "色彩义主要分为感情色彩、语体色彩和形象色彩三类。",
+    "tags": [
+      "词义"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "multi_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "汉字",
+    "difficulty": "hard",
+    "question": "形声字的六种结构类型包括：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "左形右声"
+      },
+      {
+        "key": "B",
+        "text": "右形左声"
+      },
+      {
+        "key": "C",
+        "text": "上形下声"
+      },
+      {
+        "key": "D",
+        "text": "下形上声"
+      },
+      {
+        "key": "E",
+        "text": "外形内声"
+      },
+      {
+        "key": "F",
+        "text": "内形外声"
+      }
+    ],
+    "answer": "ABCDEF",
+    "explanation": "形声字六种结构：左形右声、右形左声、上形下声、下形上声、外形内声、内形外声。",
+    "tags": [
+      "形声字"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "multi_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "词汇",
+    "difficulty": "medium",
+    "question": "下列属于现代汉语七大方言区的有：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "北方方言"
+      },
+      {
+        "key": "B",
+        "text": "吴方言"
+      },
+      {
+        "key": "C",
+        "text": "闽方言"
+      },
+      {
+        "key": "D",
+        "text": "赣方言"
+      },
+      {
+        "key": "E",
+        "text": "客家方言"
+      }
+    ],
+    "answer": "ABCDE",
+    "explanation": "七大方言区：北方话、吴方言、闽方言、赣方言、客家方言、湘方言、粤方言。",
+    "tags": [
+      "方言"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "multi_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "语音",
+    "difficulty": "medium",
+    "question": "普通话音节结构中可以省略的成分有：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "声母"
+      },
+      {
+        "key": "B",
+        "text": "韵头"
+      },
+      {
+        "key": "C",
+        "text": "韵尾"
+      },
+      {
+        "key": "D",
+        "text": "韵腹"
+      },
+      {
+        "key": "E",
+        "text": "声调"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "普通话音节中只有韵腹和声调是必不可少的，声母、韵头、韵尾均可省略。",
+    "tags": [
+      "音节"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "multi_choice",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "词汇",
+    "difficulty": "hard",
+    "question": "下列词中属于区别词的有：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "大型"
+      },
+      {
+        "key": "B",
+        "text": "男"
+      },
+      {
+        "key": "C",
+        "text": "女"
+      },
+      {
+        "key": "D",
+        "text": "正"
+      },
+      {
+        "key": "E",
+        "text": "副"
+      }
+    ],
+    "answer": "ABCDE",
+    "explanation": "区别词表示事物属性，如\"大型、中型、小型、男、女、正、副\"等，只能修饰名词或在\"的\"字前出现。",
+    "tags": [
+      "词类"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "term_explain",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "语音",
+    "difficulty": "hard",
+    "question": "解释：四呼",
+    "answer": "四呼是按照韵母开头元音的不同对普通话韵母的分类：开口呼（不以i、u、ü开头的韵母）、齐齿呼（以i开头的韵母）、合口呼（以u开头的韵母）和撮口呼（以ü开头的韵母）。",
+    "explanation": "四呼是汉语音韵学的重要概念，用于描写韵母的分类。",
+    "tags": [
+      "四呼"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "term_explain",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "汉字",
+    "difficulty": "medium",
+    "question": "解释：形声字",
+    "answer": "形声字是由形旁（表意）和声旁（表音）两部分组成的汉字。形旁表示字的意义范畴，声旁提示字的读音。形声字是现代汉字的主体，占90%以上。根据形旁和声旁的相对位置，形声字有六种类型：左形右声、右形左声、上形下声、下形上声、外形内声、内形外声。",
+    "explanation": "形声是六书中最能产的造字法，现代新增汉字几乎都是形声字。",
+    "tags": [
+      "形声字"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "term_explain",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "词汇",
+    "difficulty": "medium",
+    "question": "解释：语素",
+    "answer": "语素是语言中最小的音义结合体，是构词的基本单位。根据音节数量，语素可以分为单音节语素和多音节语素；根据能否独立成词，可以分为成词语素和不成词语素。例如\"人\"是成词语素，\"视\"\"察\"是不成词语素。",
+    "explanation": "语素是语法分析的最小单位，介于音位和词之间。",
+    "tags": [
+      "语素"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "term_explain",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "词汇",
+    "difficulty": "hard",
+    "question": "解释：区别词",
+    "answer": "区别词是表示事物属性的词，如\"大型、中型、小型、男、女、正、副、金、银\"等。区别词只能修饰名词，如\"大型企业\"，或用在\"的\"字前面，如\"男的\"。区别词不能受\"不\"\"很\"修饰，也不能做谓语，这是区别于形容词的关键特征。",
+    "explanation": "区别词是实词中较为特殊的一类，教学上常称为\"非谓形容词\"。",
+    "tags": [
+      "词类"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "term_explain",
+    "subject": "现代汉语",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "词汇",
+    "difficulty": "medium",
+    "question": "解释：色彩义",
+    "answer": "色彩义又称附属义、感受义，是附着在词的理性义上面表达人或语境所赋予的特定感受。主要分为三类：感情色彩（褒义词、贬义词、中性词）、语体色彩（口语色彩、书面语色彩）和形象色彩（通过词的形象感引起的联想）。",
+    "explanation": "色彩义使语言表达更加丰富和细腻。",
+    "tags": [
+      "词义"
+    ]
+  }
+]

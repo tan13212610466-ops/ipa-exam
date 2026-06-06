@@ -1,0 +1,396 @@
+{
+  "id": 1,
+  "title": "2021年国际注册汉语教师资格考试真题",
+  "source": "2021年国际注册汉语教师资格考试真题.txt",
+  "questionCount": 40,
+  "questions": [
+    {
+      "id": 1,
+      "type": "fill_blank",
+      "question": "“四书”包括：《大学》、《中庸》、_________、《孟子》；“五经”包括：《诗》、《书》、_______、_______、《春秋》。",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "type": "fill_blank",
+      "question": "只能与齐齿呼、撮口呼相拼的声母是_______________。",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "type": "fill_blank",
+      "question": "在汉字标准化工作中，“四定”指的是____ __、__ ____、____ __、__ ____。",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "type": "fill_blank",
+      "question": "能够直接修饰形容词和心理动词的是 。",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "type": "fill_blank",
+      "question": "儒家经典中的“三礼”是指 、 、 。",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "type": "fill_blank",
+      "question": "汉语应用中，经常用在补语位置上的介词有 。",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "type": "fill_blank",
+      "question": "汉字“车”的第三笔是 。（写出笔画名称）",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "type": "fill_blank",
+      "question": "由趋向动词“来”和“去”做补语的句子中，若宾语是表示处所的名词，则宾语的位置一定在趋向补语“来”或者“去”的_____________。",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "type": "fill_blank",
+      "question": "形容词前加副词以后再做定语修饰名词时与名词之间必须加 。",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "type": "fill_blank",
+      "question": "两个音节联缀成义而不能拆开的词叫 。",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "type": "fill_blank",
+      "question": "“赵兵吃面条，吃完了。”一句中“完”的语义指向是“",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "type": "fill_blank",
+      "question": "______按照一定的规则组成独体字，______按照一定的规则组成合体",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "type": "fill_blank",
+      "question": "“他喜欢哈尔滨啤酒。”中包含_____________个音节、_____________个 语素、_____________个词。",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "type": "fill_blank",
+      "question": "被誉为中国三大国粹的是 、 和 。",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "type": "fill_blank",
+      "question": "“一”的变调有四种：A． ____ ，B． ____ ，C． ______，D． 。（要举例） 二、选择题（共15分）",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "type": "single_choice",
+      "question": "“儿童对第一语言的获取过程，能够使用 这个术语概括。",
+      "options": [
+        {
+          "key": "A",
+          "text": "学习 B．习得 C．获得 D．学得"
+        }
+      ],
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "type": "single_choice",
+      "question": "下列属于连动句的是 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "你快去听听 B．屋里有粮食 C．汤姆真勇敢 D．他是日本人"
+        }
+      ],
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "type": "single_choice",
+      "question": "属于第二语言教学“上层结构”的一项是 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "国家语言文字政策 B．第二语言教学理论"
+        },
+        {
+          "key": "C",
+          "text": "第二语言教学总体设计 D．第二语言教学原则"
+        }
+      ],
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "type": "single_choice",
+      "question": "“你们坐在后面看得见黑板上的字吗？”中的补语属于 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "结果补语 B、可能补语 C、时量补语 D、水准补语"
+        }
+      ],
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "question": "“不好”中的“不”应读_________________。",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "type": "single_choice",
+      "question": "“提升”这个词属于复合式合成词中的哪种类型？",
+      "options": [
+        {
+          "key": "A",
+          "text": "联合型 B、偏正型 C、补充型 D、动宾型"
+        }
+      ],
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "type": "single_choice",
+      "question": "“一对花瓶”、“你说的对”、“面对未来”中三个“对”代表 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "一个词 B、两个词"
+        },
+        {
+          "key": "C",
+          "text": "三个词 D、只代表音节，不代表词"
+        }
+      ],
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "type": "single_choice",
+      "question": "“谦虚”和“虚伪”的区别是 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "语义轻重不同 B、感情色彩不同 C、范围大小不同 D、语体色彩不同"
+        }
+      ],
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "type": "single_choice",
+      "question": "汉语合成词不包括： 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "附加式构词 B．复合式构词 C．简称式构词 D．叠音词"
+        }
+      ],
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "type": "single_choice",
+      "question": "“反法西斯主义者”中的语素有 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "两个 B、三个 C、四个 D、五个"
+        }
+      ],
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 26,
+      "type": "single_choice",
+      "question": "“边疆”和“边境”的区别是 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "集体与个体的不同 B、性状特征不同 C、范围大小不同 D、语体色彩不同"
+        }
+      ],
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 27,
+      "type": "single_choice",
+      "question": "“出门买菜”是 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "联合词组 B、偏正词组 C、动宾词组 D、连动词组"
+        }
+      ],
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 28,
+      "type": "fill_blank",
+      "question": "几个性别相同、年龄相仿的熟人说话，能听出说话人是谁，这主要是因为各人的_________。",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 29,
+      "type": "single_choice",
+      "question": "“你的声音太小了，我没有听出来是你。”中“出来”表示 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "从里到外 B、辨别清楚 C、从无到有 D、超出范围"
+        }
+      ],
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 30,
+      "type": "short_answer",
+      "question": "“安培”是 。",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 31,
+      "type": "fill_blank",
+      "question": "举例说明词义具有哪些性质？",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 32,
+      "type": "fill_blank",
+      "question": "孔子提倡的“仁”的观点为何能在中华民族中产生长远影响？",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 33,
+      "type": "fill_blank",
+      "question": "请举例说明在被动句中“被”与“让、叫”最明显的区别是什么？",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 34,
+      "type": "fill_blank",
+      "question": "请举例说明“把”字句的基本特征。",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 35,
+      "type": "short_answer",
+      "question": "汉语拼音规定ü行的韵母与j、q、x相拼时，ü上的两点能够省略，但是和n、l相拼时，ü上的两点不能省略，为什么？ 四﹑教学分析与教学法使用（共25分）",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 36,
+      "type": "fill_blank",
+      "question": "学习完结构助词“的、地、得”，学生起码应该掌握 、 、 这三种结构形式。",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 37,
+      "type": "fill_blank",
+      "question": "请指出下列句中“什么”的用法有何不同，分别表示哪种意思。 （1）什么颐和园啊，故宫啊，长城啊，他都想去。 （2）你还想去什么地方看看吗？ （3）你喜欢去什么地方就去什么地方。 （4）他刚来北京，什么地方都想去看看。 （5）你想去什么地方？",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 38,
+      "type": "fill_blank",
+      "question": "动态助词和语气助词“了”，在课堂教学中能够用句型简单地表现其不同的结构关系和意义，请分别写出“了”的三种句子形式。 了1 ： ； 了2 ： ； 了3 ： 。",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 39,
+      "type": "short_answer",
+      "question": "分析下列多重复句。用“│”、“‖”、“Ⅲ”等分别表示第一、二、三重，在切分线下面标明关系。（在原句划分即可） 我讨厌定时约会，到得早，显得太急切；到迟了，显得摆架子；准时到，似乎太拘谨；索性不去，又显得没礼貌。",
+      "options": null,
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 40,
+      "type": "short_answer",
+      "question": "请简明地标示出时量补语在下列句型中的位置并做适当的文字提示。 时量补语1：S — V — O 。 时量补语2：S — V — O 。 时量补语3：S — V — O 。 时量补语4：S — V — O 。 五、偏误分析（共25分） 答题要求：请对下列病句加以修改并实行简单的分析。要求只给出一个准确的句子，分析要简明、准确、清楚。 1﹑我经常在爸爸的书房里把书拿出来。 修改：",
+      "options": null,
+      "answer": "",
+      "explanation": "2﹑这么漂亮的杯子我可恨不得用。 修改： 分析： 3﹑老师对我们非常热情，一直到楼下送我们。 修改： 分析： 4﹑刚才是我糊涂，现在我终于明白上来了。 修改： 分析： 5﹑我们班拥有八个国家的同学。 修改： 分析： 六、按照要求写出简要教案 课文 甲：开开电视，看有没有好节目。 乙：（打开电视）怎么不亮？ 甲：插头没插上。 乙：（插上插头）屋子里太亮了。拉上窗帘。 甲：外边风太大，关上窗户好吗？ 乙：关上吧。 上边这段话中重要的语法点是“V＋上”，表示动作的结果或目的。你在课堂上用什么方法讲练这个语法点？写出简要教案。"
+    }
+  ]
+}

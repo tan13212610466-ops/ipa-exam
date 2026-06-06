@@ -1,0 +1,1266 @@
+[
+  {
+    "id": 180,
+    "type": "fill_blank",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "对外汉语教学总论",
+    "difficulty": "easy",
+    "question": "对外汉语教学事业的标志性起点是1950年清华大学设立的\"________专修班\"。",
+    "answer": "东欧交换生中国语文",
+    "explanation": "对外汉语教学事业始于20世纪50年代，以1950年清华大学\"东欧交换生中国语文专修班\"为标志。",
+    "tags": [
+      "历史",
+      "起点"
+    ]
+  },
+  {
+    "id": 181,
+    "type": "fill_blank",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "教学总论",
+    "difficulty": "medium",
+    "question": "第二语言教学四大环节是总体设计、教材编写、________和语言测试。",
+    "answer": "课堂教学",
+    "explanation": "第二语言教学四大环节为：总体设计、教材编写、课堂教学、语言测试。课堂教学是中心环节。",
+    "tags": [
+      "教学环节"
+    ]
+  },
+  {
+    "id": 182,
+    "type": "fill_blank",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "教学法",
+    "difficulty": "easy",
+    "question": "语法翻译法的语言学基础是________语言学，又称传统语言学。",
+    "answer": "历史比较",
+    "explanation": "语法翻译法以历史比较语言学为语言学基础，重视语法规则的讲解和翻译练习。",
+    "tags": [
+      "教学法",
+      "语法翻译法"
+    ]
+  },
+  {
+    "id": 183,
+    "type": "fill_blank",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "教学法",
+    "difficulty": "medium",
+    "question": "直接法的心理学基础是________心理学，强调语言与客体的直接连接。",
+    "answer": "联结主义",
+    "explanation": "直接法的心理学基础是联结主义心理学，强调在语言和外界事物之间建立直接联系，不使用学生母语。",
+    "tags": [
+      "教学法",
+      "直接法"
+    ]
+  },
+  {
+    "id": 184,
+    "type": "fill_blank",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "教学法",
+    "difficulty": "medium",
+    "question": "直接法的代表人物有贝立兹（德）、古安（法）和________（英）。",
+    "answer": "帕莫艾盖尔特",
+    "explanation": "直接法的主要代表人物为贝立兹（德国）、古安（法国）和帕莫艾盖尔特（英国）。",
+    "tags": [
+      "教学法",
+      "直接法"
+    ]
+  },
+  {
+    "id": 185,
+    "type": "fill_blank",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "教学法",
+    "difficulty": "easy",
+    "question": "以口语为基础，与语法翻译法针锋相对的教学法是________。",
+    "answer": "直接法",
+    "explanation": "直接法以口语为基础，以句子为基本教学单位，以模仿为主，与语法翻译法形成鲜明对比。",
+    "tags": [
+      "教学法",
+      "直接法"
+    ]
+  },
+  {
+    "id": 186,
+    "type": "fill_blank",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch2",
+    "topic": "语言习得",
+    "difficulty": "easy",
+    "question": "美国语言学家________提出了\"语言习得机制\"（LAD）的理论。",
+    "answer": "乔姆斯基",
+    "explanation": "乔姆斯基提出\"语言习得机制\"（Language Acquisition Device），认为儿童天生具有习得语言的能力。",
+    "tags": [
+      "习得",
+      "乔姆斯基"
+    ]
+  },
+  {
+    "id": 187,
+    "type": "fill_blank",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch2",
+    "topic": "语言习得",
+    "difficulty": "medium",
+    "question": "美国语言学家________提出了\"中介语\"理论，塞林克是该理论的代表人物。",
+    "answer": "塞林克",
+    "explanation": "塞林克（Selinker）提出中介语理论，认为学习者在习得第二语言过程中会形成一种介于母语和目的语之间的动态语言系统。",
+    "tags": [
+      "习得",
+      "中介语"
+    ]
+  },
+  {
+    "id": 188,
+    "type": "fill_blank",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch2",
+    "topic": "语言习得",
+    "difficulty": "medium",
+    "question": "中介语的特点包括系统性、可变性、________和僵化性。",
+    "answer": "反复性",
+    "explanation": "中介语有五大特点：系统性、可变性、反复性、顽固性和僵化性。",
+    "tags": [
+      "习得",
+      "中介语"
+    ]
+  },
+  {
+    "id": 189,
+    "type": "fill_blank",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "教学法",
+    "difficulty": "medium",
+    "question": "听说法的语言学基础是________语言学，心理学基础是行为主义心理学。",
+    "answer": "结构主义",
+    "explanation": "听说法的语言学基础是结构主义语言学，心理学基础是行为主义心理学，强调通过刺激-反应-强化来学习语言。",
+    "tags": [
+      "教学法",
+      "听说法"
+    ]
+  },
+  {
+    "id": 190,
+    "type": "fill_blank",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "教学法",
+    "difficulty": "medium",
+    "question": "交际法的语言学基础是________语言学，强调语言的交际功能。",
+    "answer": "社会语言学",
+    "explanation": "交际法以社会语言学为语言学基础，强调语言的社会交际功能，注重培养学习者的交际能力。",
+    "tags": [
+      "教学法",
+      "交际法"
+    ]
+  },
+  {
+    "id": 191,
+    "type": "fill_blank",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch7",
+    "topic": "测试评估",
+    "difficulty": "easy",
+    "question": "主观性试题和客观性试题是从________的角度划分出来的。",
+    "answer": "评分的客观性",
+    "explanation": "试题按评分方式分为主观性试题（需人工评判）和客观性试题（答案唯一，可机器评分）。",
+    "tags": [
+      "测试",
+      "分类"
+    ]
+  },
+  {
+    "id": 192,
+    "type": "fill_blank",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch4",
+    "topic": "教学理论",
+    "difficulty": "hard",
+    "question": "总体设计需要处理八种关系，其中语言和文字的关系中，汉字教学的基本立场是________。",
+    "answer": "识繁写简",
+    "explanation": "总体设计需要处理语言和文字的关系，汉字教学的基本立场是识繁写简。",
+    "tags": [
+      "总体设计",
+      "汉字"
+    ]
+  },
+  {
+    "id": 193,
+    "type": "fill_blank",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch9",
+    "topic": "教育技术",
+    "difficulty": "medium",
+    "question": "汉语远程教学的基本特点是强调________、增强交互性。",
+    "answer": "个别化教学",
+    "explanation": "汉语远程教学的目标是通过远程方式培养听说读写技能，强调个别化教学、增强交互性是基本特点。",
+    "tags": [
+      "教育技术",
+      "远程教学"
+    ]
+  },
+  {
+    "id": 194,
+    "type": "fill_blank",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "教学总论",
+    "difficulty": "medium",
+    "question": "语言教学重在精讲多练，以培养学生的________能力为目的。",
+    "answer": "语言交际",
+    "explanation": "语言教学重在精讲多练，以培养学生的语言交际能力为目的，实践性较强。",
+    "tags": [
+      "教学原则"
+    ]
+  },
+  {
+    "id": 195,
+    "type": "fill_blank",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch6",
+    "topic": "教材编写",
+    "difficulty": "medium",
+    "question": "教材编写需要诸多方面的理论基础，包括语言学、教育学以及________。",
+    "answer": "心理学",
+    "explanation": "对外汉语教材的编写涉及语言学、教育学以及心理学等多方面的理论基础。",
+    "tags": [
+      "教材",
+      "理论基础"
+    ]
+  },
+  {
+    "id": 196,
+    "type": "fill_blank",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "教学法",
+    "difficulty": "hard",
+    "question": "功能法的语言学基础是功能语言学，代表人物是英国语言学家________。",
+    "answer": "韩礼德",
+    "explanation": "功能法以韩礼德的功能语言学为基础，强调语言的交际功能和意念表达。",
+    "tags": [
+      "教学法",
+      "功能法"
+    ]
+  },
+  {
+    "id": 197,
+    "type": "fill_blank",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch2",
+    "topic": "语言习得",
+    "difficulty": "medium",
+    "question": "\"偏误分析\"理论区分了\"________\"和\"错误\"两个概念。",
+    "answer": "偏误",
+    "explanation": "偏误分析区分了\"偏误\"（系统的、有规律的）和\"错误\"（偶然的、无规律的），偏误反映学习者的中介语系统。",
+    "tags": [
+      "习得",
+      "偏误分析"
+    ]
+  },
+  {
+    "id": 198,
+    "type": "fill_blank",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch5",
+    "topic": "课堂教学",
+    "difficulty": "easy",
+    "question": "第二语言教学的中心环节和基本方式是________。",
+    "answer": "课堂教学",
+    "explanation": "课堂教学是第二语言教学的中心环节和基本方式，是四大教学环节的核心。",
+    "tags": [
+      "教学",
+      "课堂教学"
+    ]
+  },
+  {
+    "id": 199,
+    "type": "fill_blank",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch8",
+    "topic": "文化因素",
+    "difficulty": "medium",
+    "question": "在对外汉语教学中，文化因素分为\"________文化\"和\"交际文化\"两类。",
+    "answer": "知识",
+    "explanation": "对外汉语教学中的文化因素分为\"知识文化\"和\"交际文化\"，知识文化不影响交际，交际文化直接影响交际效果。",
+    "tags": [
+      "文化",
+      "分类"
+    ]
+  },
+  {
+    "id": 200,
+    "type": "single_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "教学法",
+    "difficulty": "medium",
+    "question": "下列教学法中，在教学过程中不使用学生母语的是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "语法翻译法"
+      },
+      {
+        "key": "B",
+        "text": "直接法"
+      },
+      {
+        "key": "C",
+        "text": "认知法"
+      },
+      {
+        "key": "D",
+        "text": "自觉对比法"
+      }
+    ],
+    "answer": "B",
+    "explanation": "直接法强调在语言和外界事物之间建立直接联系，在教学过程中不使用学生的母语，与语法翻译法针锋相对。",
+    "tags": [
+      "教学法",
+      "直接法"
+    ]
+  },
+  {
+    "id": 201,
+    "type": "single_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "教学法",
+    "difficulty": "easy",
+    "question": "以口语为基础，以句子为基本教学单位的教学法是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "语法翻译法"
+      },
+      {
+        "key": "B",
+        "text": "直接法"
+      },
+      {
+        "key": "C",
+        "text": "认知法"
+      },
+      {
+        "key": "D",
+        "text": "任务教学法"
+      }
+    ],
+    "answer": "B",
+    "explanation": "直接法以口语为基础，以句子为基本教学单位，以模仿为主。",
+    "tags": [
+      "教学法",
+      "直接法"
+    ]
+  },
+  {
+    "id": 202,
+    "type": "single_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "教学法",
+    "difficulty": "medium",
+    "question": "听说法以刺激-反应-强化来学习语言，其心理学基础是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "认知心理学"
+      },
+      {
+        "key": "B",
+        "text": "联结主义心理学"
+      },
+      {
+        "key": "C",
+        "text": "行为主义心理学"
+      },
+      {
+        "key": "D",
+        "text": "人本主义心理学"
+      }
+    ],
+    "answer": "C",
+    "explanation": "听说法以行为主义心理学为基础，强调通过刺激-反应-强化的模式来学习语言。",
+    "tags": [
+      "教学法",
+      "听说法"
+    ]
+  },
+  {
+    "id": 203,
+    "type": "single_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch2",
+    "topic": "语言习得",
+    "difficulty": "medium",
+    "question": "中介语理论的代表人物是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "乔姆斯基"
+      },
+      {
+        "key": "B",
+        "text": "克拉申"
+      },
+      {
+        "key": "C",
+        "text": "塞林克"
+      },
+      {
+        "key": "D",
+        "text": "韩礼德"
+      }
+    ],
+    "answer": "C",
+    "explanation": "塞林克（Selinker）是中介语理论的代表人物，该理论认为学习者在习得第二语言过程中会形成介于母语和目的语之间的动态语言系统。",
+    "tags": [
+      "习得",
+      "中介语"
+    ]
+  },
+  {
+    "id": 204,
+    "type": "single_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch2",
+    "topic": "语言习得",
+    "difficulty": "hard",
+    "question": "下列哪项不属于中介语的特点？（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "系统性"
+      },
+      {
+        "key": "B",
+        "text": "可变性"
+      },
+      {
+        "key": "C",
+        "text": "完美性"
+      },
+      {
+        "key": "D",
+        "text": "僵化性"
+      }
+    ],
+    "answer": "C",
+    "explanation": "中介语具有系统性、可变性、反复性、顽固性和僵化性五大特点，不具有\"完美性\"。",
+    "tags": [
+      "习得",
+      "中介语"
+    ]
+  },
+  {
+    "id": 205,
+    "type": "single_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "教学法",
+    "difficulty": "medium",
+    "question": "交际法的语言学基础是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "结构主义语言学"
+      },
+      {
+        "key": "B",
+        "text": "历史比较语言学"
+      },
+      {
+        "key": "C",
+        "text": "社会语言学"
+      },
+      {
+        "key": "D",
+        "text": "转换生成语言学"
+      }
+    ],
+    "answer": "C",
+    "explanation": "交际法以社会语言学为语言学基础，强调语言的社会交际功能。",
+    "tags": [
+      "教学法",
+      "交际法"
+    ]
+  },
+  {
+    "id": 206,
+    "type": "single_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "教学总论",
+    "difficulty": "easy",
+    "question": "第二语言教学四大环节的中心环节是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "总体设计"
+      },
+      {
+        "key": "B",
+        "text": "教材编写"
+      },
+      {
+        "key": "C",
+        "text": "课堂教学"
+      },
+      {
+        "key": "D",
+        "text": "语言测试"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第二语言教学四大环节中，课堂教学是中心环节和基本方式。",
+    "tags": [
+      "教学",
+      "环节"
+    ]
+  },
+  {
+    "id": 207,
+    "type": "single_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch2",
+    "topic": "语言习得",
+    "difficulty": "medium",
+    "question": "\"语言习得机制\"（LAD）理论的提出者是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "克拉申"
+      },
+      {
+        "key": "B",
+        "text": "乔姆斯基"
+      },
+      {
+        "key": "C",
+        "text": "皮亚杰"
+      },
+      {
+        "key": "D",
+        "text": "维果茨基"
+      }
+    ],
+    "answer": "B",
+    "explanation": "乔姆斯基提出\"语言习得机制\"（LAD）理论，认为儿童天生具有习得语言的能力。",
+    "tags": [
+      "习得",
+      "乔姆斯基"
+    ]
+  },
+  {
+    "id": 208,
+    "type": "single_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch2",
+    "topic": "语言习得",
+    "difficulty": "hard",
+    "question": "偏误分析区分了\"偏误\"和\"错误\"，其中\"偏误\"的特点是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "偶然的、无规律的"
+      },
+      {
+        "key": "B",
+        "text": "系统的、有规律的"
+      },
+      {
+        "key": "C",
+        "text": "随机的、不可预测的"
+      },
+      {
+        "key": "D",
+        "text": "与母语完全无关"
+      }
+    ],
+    "answer": "B",
+    "explanation": "\"偏误\"是系统的、有规律的，反映学习者的中介语系统；\"错误\"是偶然的、无规律的。",
+    "tags": [
+      "习得",
+      "偏误分析"
+    ]
+  },
+  {
+    "id": 209,
+    "type": "single_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch7",
+    "topic": "测试评估",
+    "difficulty": "easy",
+    "question": "按评分方式划分，试题可分为：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "水平测试和成绩测试"
+      },
+      {
+        "key": "B",
+        "text": "主观性试题和客观性试题"
+      },
+      {
+        "key": "C",
+        "text": "分立式试题和综合性试题"
+      },
+      {
+        "key": "D",
+        "text": "标准化试题和非标准化试题"
+      }
+    ],
+    "answer": "B",
+    "explanation": "按评分方式（评分的客观性），试题分为主观性试题和客观性试题。",
+    "tags": [
+      "测试",
+      "分类"
+    ]
+  },
+  {
+    "id": 210,
+    "type": "single_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "教学总论",
+    "difficulty": "medium",
+    "question": "关于语言教学和语言学教学的区别，以下说法正确的是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "语言教学注重系统性与理论性"
+      },
+      {
+        "key": "B",
+        "text": "语言学教学重在精讲多练"
+      },
+      {
+        "key": "C",
+        "text": "语言教学重在培养语言交际能力"
+      },
+      {
+        "key": "D",
+        "text": "两者没有区别"
+      }
+    ],
+    "answer": "C",
+    "explanation": "语言教学重在精讲多练，以培养学生语言交际能力为目的；语言学教学以基础知识讲述为主，注重系统性与理论性。",
+    "tags": [
+      "教学",
+      "区分"
+    ]
+  },
+  {
+    "id": 211,
+    "type": "single_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch4",
+    "topic": "教学理论",
+    "difficulty": "medium",
+    "question": "汉字教学的基本立场是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "识简写繁"
+      },
+      {
+        "key": "B",
+        "text": "识繁写简"
+      },
+      {
+        "key": "C",
+        "text": "只教简体字"
+      },
+      {
+        "key": "D",
+        "text": "只教繁体字"
+      }
+    ],
+    "answer": "B",
+    "explanation": "总体设计中，汉字教学的基本立场是\"识繁写简\"。",
+    "tags": [
+      "汉字",
+      "教学"
+    ]
+  },
+  {
+    "id": 212,
+    "type": "single_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch9",
+    "topic": "教育技术",
+    "difficulty": "medium",
+    "question": "汉语远程教学的基本特点是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "集体教学和统一进度"
+      },
+      {
+        "key": "B",
+        "text": "个别化教学和增强交互性"
+      },
+      {
+        "key": "C",
+        "text": "面授为主远程为辅"
+      },
+      {
+        "key": "D",
+        "text": "同步教学和考试导向"
+      }
+    ],
+    "answer": "B",
+    "explanation": "汉语远程教学强调个别化教学、增强交互性，通过远程方式培养汉语听说读写等技能。",
+    "tags": [
+      "教育技术",
+      "远程教学"
+    ]
+  },
+  {
+    "id": 213,
+    "type": "single_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch8",
+    "topic": "文化因素",
+    "difficulty": "medium",
+    "question": "对外汉语教学中的文化因素分为：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "传统文化和现代文化"
+      },
+      {
+        "key": "B",
+        "text": "知识文化和交际文化"
+      },
+      {
+        "key": "C",
+        "text": "本土文化和外来文化"
+      },
+      {
+        "key": "D",
+        "text": "物质文化和精神文化"
+      }
+    ],
+    "answer": "B",
+    "explanation": "对外汉语教学中的文化因素分为\"知识文化\"和\"交际文化\"。知识文化不影响交际，交际文化直接影响交际效果。",
+    "tags": [
+      "文化",
+      "分类"
+    ]
+  },
+  {
+    "id": 214,
+    "type": "single_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "教学法",
+    "difficulty": "hard",
+    "question": "功能法的语言学基础是功能语言学，其代表人物是：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "索绪尔"
+      },
+      {
+        "key": "B",
+        "text": "布龙菲尔德"
+      },
+      {
+        "key": "C",
+        "text": "韩礼德"
+      },
+      {
+        "key": "D",
+        "text": "奥斯汀"
+      }
+    ],
+    "answer": "C",
+    "explanation": "功能法以韩礼德的功能语言学为基础，强调语言的交际功能和意念的表达。",
+    "tags": [
+      "教学法",
+      "功能法"
+    ]
+  },
+  {
+    "id": 215,
+    "type": "multi_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch2",
+    "topic": "语言习得",
+    "difficulty": "medium",
+    "question": "中介语的特点包括：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "系统性"
+      },
+      {
+        "key": "B",
+        "text": "可变性"
+      },
+      {
+        "key": "C",
+        "text": "反复性"
+      },
+      {
+        "key": "D",
+        "text": "僵化性"
+      },
+      {
+        "key": "E",
+        "text": "完美性"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "中介语有五大特点：系统性、可变性、反复性、顽固性（其中一部分形成僵化）。不具有\"完美性\"。",
+    "tags": [
+      "习得",
+      "中介语"
+    ]
+  },
+  {
+    "id": 216,
+    "type": "multi_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "教学总论",
+    "difficulty": "easy",
+    "question": "第二语言教学四大环节包括：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "总体设计"
+      },
+      {
+        "key": "B",
+        "text": "教材编写"
+      },
+      {
+        "key": "C",
+        "text": "课堂教学"
+      },
+      {
+        "key": "D",
+        "text": "语言测试"
+      },
+      {
+        "key": "E",
+        "text": "教师培训"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "第二语言教学四大环节为：总体设计、教材编写、课堂教学、语言测试，其中课堂教学是中心环节。",
+    "tags": [
+      "教学",
+      "环节"
+    ]
+  },
+  {
+    "id": 217,
+    "type": "multi_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "教学法",
+    "difficulty": "medium",
+    "question": "下列属于第二语言教学法主要流派的有：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "语法翻译法"
+      },
+      {
+        "key": "B",
+        "text": "直接法"
+      },
+      {
+        "key": "C",
+        "text": "听说法"
+      },
+      {
+        "key": "D",
+        "text": "交际法"
+      },
+      {
+        "key": "E",
+        "text": "任务教学法"
+      }
+    ],
+    "answer": "ABCDE",
+    "explanation": "第二语言教学法主要流派包括：语法翻译法、直接法、听说法、功能法、交际法和任务教学法。",
+    "tags": [
+      "教学法",
+      "流派"
+    ]
+  },
+  {
+    "id": 218,
+    "type": "multi_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "教学法",
+    "difficulty": "medium",
+    "question": "直接法的主要特点包括：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "在语言和外界事物之间建立直接联系"
+      },
+      {
+        "key": "B",
+        "text": "在教学过程中不使用学生母语"
+      },
+      {
+        "key": "C",
+        "text": "以口语为基础"
+      },
+      {
+        "key": "D",
+        "text": "以句子为基本教学单位"
+      },
+      {
+        "key": "E",
+        "text": "以模仿为主"
+      }
+    ],
+    "answer": "ABCDE",
+    "explanation": "直接法的主要特点：在语言和外界事物间建立直接联系、不使用母语、以口语为基础、以句子为基本教学单位、以模仿为主。",
+    "tags": [
+      "教学法",
+      "直接法"
+    ]
+  },
+  {
+    "id": 219,
+    "type": "multi_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "教学法",
+    "difficulty": "hard",
+    "question": "下列属于直接法代表人物的有：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "贝立兹（德）"
+      },
+      {
+        "key": "B",
+        "text": "古安（法）"
+      },
+      {
+        "key": "C",
+        "text": "帕莫艾盖尔特（英）"
+      },
+      {
+        "key": "D",
+        "text": "克拉申（美）"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "直接法的代表人物为贝立兹（德国）、古安（法国）和帕莫艾盖尔特（英国）。克拉申是输入假说的提出者，不属于直接法。",
+    "tags": [
+      "教学法",
+      "直接法"
+    ]
+  },
+  {
+    "id": 220,
+    "type": "multi_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch6",
+    "topic": "教材编写",
+    "difficulty": "medium",
+    "question": "对外汉语教材编写需要的理论基础包括：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "语言学"
+      },
+      {
+        "key": "B",
+        "text": "教育学"
+      },
+      {
+        "key": "C",
+        "text": "心理学"
+      },
+      {
+        "key": "D",
+        "text": "经济学"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "对外汉语教材的编写需要语言学、教育学以及心理学等多方面的理论基础。",
+    "tags": [
+      "教材",
+      "理论基础"
+    ]
+  },
+  {
+    "id": 221,
+    "type": "multi_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "教学总论",
+    "difficulty": "medium",
+    "question": "关于语言教学与语言学教学的区别，正确的有：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "语言教学重在精讲多练"
+      },
+      {
+        "key": "B",
+        "text": "语言学教学注重系统性与理论性"
+      },
+      {
+        "key": "C",
+        "text": "语言教学以培养语言交际能力为目的"
+      },
+      {
+        "key": "D",
+        "text": "语言学教学侧重实践的方法"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "语言教学重在精讲多练，以培养语言交际能力为目的；语言学教学以基础知识讲述为主，注重系统性与理论性。D错误，语言教学侧重实践方法。",
+    "tags": [
+      "教学",
+      "区分"
+    ]
+  },
+  {
+    "id": 222,
+    "type": "multi_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch9",
+    "topic": "教育技术",
+    "difficulty": "medium",
+    "question": "影响汉语远程网络教学的因素包括：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "通讯技术和汉语信息处理技术"
+      },
+      {
+        "key": "B",
+        "text": "语言教学理论与现代教育技术理论"
+      },
+      {
+        "key": "C",
+        "text": "汉语教师对现代教育技术的认识和技能"
+      },
+      {
+        "key": "D",
+        "text": "学生的性别和年龄"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "影响汉语远程网络教学的因素包括：通讯技术和汉语信息处理技术、语言教学理论与现代教育技术理论、汉语教师对现代教育技术的认识和相关技能。",
+    "tags": [
+      "教育技术",
+      "远程教学"
+    ]
+  },
+  {
+    "id": 223,
+    "type": "multi_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "教学法",
+    "difficulty": "hard",
+    "question": "下列教学法中，以结构主义语言学为基础的有：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "语法翻译法"
+      },
+      {
+        "key": "B",
+        "text": "听说法"
+      },
+      {
+        "key": "C",
+        "text": "交际法"
+      },
+      {
+        "key": "D",
+        "text": "直接法"
+      }
+    ],
+    "answer": "B",
+    "explanation": "听说法的语言学基础是结构主义语言学。语法翻译法以历史比较语言学为基础，交际法以社会语言学为基础，直接法以联结主义心理学为基础。",
+    "tags": [
+      "教学法",
+      "听说法"
+    ]
+  },
+  {
+    "id": 224,
+    "type": "multi_choice",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch2",
+    "topic": "语言习得",
+    "difficulty": "medium",
+    "question": "第一语言习得与第二语言学习的主要区别包括：（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "学习主体不同（儿童 vs 成人）"
+      },
+      {
+        "key": "B",
+        "text": "学习起点不同（零起点 vs 已掌握第一语言）"
+      },
+      {
+        "key": "C",
+        "text": "学习环境不同"
+      },
+      {
+        "key": "D",
+        "text": "学习动机相同"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "第一语言习得与第二语言学习在学习主体、学习起点、学习环境等方面存在差异。学习动机也不相同。",
+    "tags": [
+      "习得",
+      "对比"
+    ]
+  },
+  {
+    "id": 225,
+    "type": "term_explain",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch2",
+    "topic": "语言习得",
+    "difficulty": "hard",
+    "question": "解释：中介语",
+    "answer": "中介语是学习者在习得第二语言过程中形成的一种介于母语和目的语之间的动态语言系统。由塞林克（Selinker）提出。中介语具有五大特点：系统性、可变性、反复性、顽固性和僵化性。它反映了学习者在不同阶段的第二语言知识和能力的发展状态。",
+    "explanation": "中介语理论是第二语言习得研究的重要理论，强调学习者语言是一个独立的、动态的系统。",
+    "tags": [
+      "习得",
+      "中介语"
+    ]
+  },
+  {
+    "id": 226,
+    "type": "term_explain",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch2",
+    "topic": "语言习得",
+    "difficulty": "medium",
+    "question": "解释：偏误分析",
+    "answer": "偏误分析是对学习者在第二语言习得过程中所产生的偏误进行系统分析的理论和方法。它区分了\"偏误\"（系统的、有规律的）和\"错误\"（偶然的、无规律的）。偏误反映学习者的中介语系统，分析偏误可以帮助教师了解学习者的学习过程和策略。",
+    "explanation": "偏误分析由科德（Corder）系统提出，是第二语言习得研究的重要方法。",
+    "tags": [
+      "习得",
+      "偏误分析"
+    ]
+  },
+  {
+    "id": 227,
+    "type": "term_explain",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "教学法",
+    "difficulty": "medium",
+    "question": "解释：直接法",
+    "answer": "直接法是第二语言教学法的一种，又称改革法或自然法。其语言学基础是历史比较语言学，心理学基础是联结主义心理学。主要特点：在语言和外界事物之间建立直接联系、不使用学生母语、以口语为基础、以句子为基本教学单位、以模仿为主。代表人物有贝立兹（德）、古安（法）、帕莫艾盖尔特（英）。",
+    "explanation": "直接法产生于19世纪末20世纪初，是与语法翻译法针锋相对的教学法流派。",
+    "tags": [
+      "教学法",
+      "直接法"
+    ]
+  },
+  {
+    "id": 228,
+    "type": "term_explain",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch1",
+    "topic": "教学总论",
+    "difficulty": "medium",
+    "question": "解释：第二语言教学四大环节",
+    "answer": "第二语言教学四大环节为：总体设计、教材编写、课堂教学、语言测试。总体设计是根据语言规律和语言教学规律制定教学方案；教材编写是依据总体设计编写教学材料；课堂教学是中心环节和基本方式；语言测试是检测教学效果的手段。四大环节构成一个完整的教学过程。",
+    "explanation": "四大环节相互联系、相互制约，共同构成第二语言教学的系统工程。",
+    "tags": [
+      "教学",
+      "环节"
+    ]
+  },
+  {
+    "id": 229,
+    "type": "term_explain",
+    "subject": "对外汉语教学理论",
+    "paper": "考试指南",
+    "chapter": "ch3",
+    "topic": "教学法",
+    "difficulty": "hard",
+    "question": "解释：交际法",
+    "answer": "交际法又称功能法，是第二语言教学法的一种。其语言学基础是社会语言学（韩礼德的功能语言学），强调语言的交际功能。交际法以培养学习者的交际能力为目标，教学内容以功能-意念为纲，教学过程交际化。该教学法认为语言是交际的工具，教学应围绕交际活动展开。",
+    "explanation": "交际法产生于20世纪70年代，是对听说法缺陷的反思，强调语言的实用性和交际性。",
+    "tags": [
+      "教学法",
+      "交际法"
+    ]
+  }
+]
